@@ -29,7 +29,8 @@
 🔹 Criação de Personagens Virtuais Inteligentes com memória
 🔹 Estudante de Cibersegurança, Reversing & Automações silenciosas
 
-[🖼️ loading gif: ./assets/[sobre_mim.gif](https://tenor.com/pt-PT/view/web-hack-hacker-hack-coder-gif-1982038743043620378)]
+[![🖼️ loading gif](https://media.tenor.com/hl0EupH3b2YAAAAC/web-hack-hacker.gif)](https://tenor.com/pt-PT/view/web-hack-hacker-hack-coder-gif-1982038743043620378)
+
 ```
 
 ---
