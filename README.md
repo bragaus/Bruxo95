@@ -30,7 +30,9 @@
 🔹 Estudante de Cibersegurança, Reversing & Automações silenciosas
 
 ```
-![Descrição do GIF](./assets/sobre_mim.gif)
+<p align="center">
+  <img src="./assets/sobre_mim.gif" alt="Demonstração do Plano Artístico">
+</p>
 ---
 
 ```bash
