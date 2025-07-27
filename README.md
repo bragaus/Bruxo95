@@ -28,9 +28,9 @@
 🔹 APIs ocultas, Webhooks, sistemas obscuros
 🔹 Criação de Personagens Virtuais Inteligentes com memória
 🔹 Estudante de Cibersegurança, Reversing & Automações silenciosas
-
-```
 ![Descrição do GIF](./assets/sobre_mim.gif)
+```
+
 
 ---
 
